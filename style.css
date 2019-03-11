@@ -1,0 +1,22 @@
+.important {
+    color:#d11bd1;
+    font-style:italic;
+    font font-weight: bold;
+}
+
+#box1 {
+    background-color: yellow;
+    border: 10px solid red;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 50px;
+    width: 200px;
+    padding-top: 50px;
+}
+
+#box2 {
+    background-color: olive;
+    height: 200px;
+    width: 100px;
+    margin-left: 100px;
+}
